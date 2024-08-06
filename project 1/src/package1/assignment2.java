@@ -13,7 +13,7 @@ public int sub(int s1, int s2) {
 	int sub;
 	sub=s1-s2;
 	System.out.println("sub="+sub);
-	return(sub);//
+	return(sub);//l
 }
 public int mul(int m1, int m2)
 {
